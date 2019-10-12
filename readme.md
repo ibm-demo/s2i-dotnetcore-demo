@@ -60,4 +60,8 @@
 4. When happy with your changes, scroll to the bottom of the screen and click `Commit changes` ![dotnetcore-github-4](images/dotnetcore-github-4.png)
 5. You have just make your first changes. Return to OpenShift console and check if a build is triggered automatically.
 
+## Reference
+
+- [Documentation / OpenShift Container Platform 3.11 / Using Images / Source-to-Image (S2I) / .NET Core](https://docs.openshift.com/container-platform/3.11/using_images/s2i_images/dot_net_core.html)
+
 This marks the end of this lab.
